@@ -1,0 +1,19 @@
+data_paths:
+  raw_data: "data/raw/sensor_data.csv"
+  maintenance_logs: "data/raw/maintenance_logs.csv"
+  operational_data: "data/raw/operational_data.csv"
+  
+processed_paths:
+  cleaned_data: "data/processed/cleaned_sensor_data.csv"  # Changed from .parquet
+  feature_data: "data/features/engineered_features.csv"   # Changed from .parquet
+  labels: "data/processed/labels.csv"                     # Changed from .parquet
+
+model_paths:
+  saved_models: "models/"
+  ensemble_weights: "models/ensemble_weights.pkl"
+  scalers: "models/scalers/"
+
+output_paths:
+  predictions: "outputs/predictions/"
+  reports: "outputs/reports/"
+  dashboards: "outputs/dashboards/"

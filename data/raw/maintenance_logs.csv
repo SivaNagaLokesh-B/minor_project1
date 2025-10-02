@@ -1,0 +1,340 @@
+timestamp,equipment_id,maintenance_type,description,parts_replaced,technician,downtime_hours
+2020-01-03 03:00:00,Machine_L47230,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-01-03 22:00:00,Machine_L47249,corrective,Failure: Power Failure,"bearings, tools",Tech_01,6
+2020-01-04 06:00:00,Machine_L47257,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,11
+2020-01-07 17:00:00,Machine_L47340,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,22
+2020-01-07 18:00:00,Machine_L47341,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,14
+2020-01-08 01:00:00,Machine_L47348,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-01-09 03:00:00,Machine_15054,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-01-09 16:00:00,Machine_15067,corrective,Failure: Power Failure,"bearings, tools",Tech_01,16
+2020-01-11 03:00:00,Machine_L47422,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-01-11 09:00:00,Machine_L47428,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,15
+2020-01-11 10:00:00,Machine_L47429,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2020-01-11 20:00:00,Machine_15119,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-01-14 16:00:00,Machine_L47507,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2020-01-16 21:00:00,Machine_L47560,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-01-19 11:00:00,Machine_L47622,corrective,Failure: Power Failure,"bearings, tools",Tech_01,22
+2020-01-20 08:00:00,Machine_L47643,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-01-25 11:00:00,Machine_L47766,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2020-01-26 04:00:00,Machine_L47783,corrective,Failure: Power Failure,"bearings, tools",Tech_01,21
+2020-02-01 03:00:00,Machine_L47926,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,4
+2020-02-05 08:00:00,Machine_L48027,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2020-02-06 17:00:00,Machine_15740,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-02-07 16:00:00,Machine_L48083,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2020-02-08 15:00:00,Machine_L48106,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,22
+2020-02-12 09:00:00,Machine_15876,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-02-15 06:00:00,Machine_L48265,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,10
+2020-02-15 08:00:00,Machine_H30501,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-02-15 16:00:00,Machine_L48275,corrective,Failure: Power Failure,"bearings, tools",Tech_01,10
+2020-02-16 20:00:00,Machine_H30537,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-02-16 21:00:00,Machine_15984,corrective,Failure: Power Failure,"bearings, tools",Tech_01,11
+2020-02-17 17:00:00,Machine_L48324,corrective,Failure: Power Failure,"bearings, tools",Tech_01,13
+2020-02-18 10:00:00,Machine_L48341,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,12
+2020-02-18 11:00:00,Machine_L48342,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,6
+2020-02-18 16:00:00,Machine_L48347,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,15
+2020-02-23 13:00:00,Machine_L48464,corrective,Failure: Power Failure,"bearings, tools",Tech_01,16
+2020-02-25 05:00:00,Machine_16184,corrective,Failure: Power Failure,"bearings, tools",Tech_01,9
+2020-02-25 15:00:00,Machine_L48514,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,7
+2020-02-25 16:00:00,Machine_L48515,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,17
+2020-02-28 00:00:00,Machine_L48571,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-02-29 04:00:00,Machine_L48599,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,20
+2020-02-29 22:00:00,Machine_H30851,corrective,Failure: No Failure,"bearings, tools",Tech_01,4
+2020-03-03 05:00:00,Machine_16352,corrective,Failure: Power Failure,"bearings, tools",Tech_01,8
+2020-03-03 09:00:00,Machine_L48676,corrective,Failure: Power Failure,"bearings, tools",Tech_01,5
+2020-03-03 22:00:00,Machine_L48689,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,23
+2020-03-07 00:00:00,Machine_L48763,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,22
+2020-03-07 12:00:00,Machine_L48775,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-03-11 03:00:00,Machine_H31096,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,17
+2020-03-14 12:00:00,Machine_L48943,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,21
+2020-03-15 09:00:00,Machine_L48964,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-03-15 14:00:00,Machine_L48969,corrective,Failure: Power Failure,"bearings, tools",Tech_01,7
+2020-03-16 09:00:00,Machine_L48988,corrective,Failure: Power Failure,"bearings, tools",Tech_01,7
+2020-03-17 10:00:00,Machine_L49013,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,14
+2020-03-24 05:00:00,Machine_16856,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-03-25 00:00:00,Machine_L49195,corrective,Failure: Power Failure,"bearings, tools",Tech_01,15
+2020-03-27 12:00:00,Machine_L49255,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-03-29 14:00:00,Machine_L49305,corrective,Failure: Power Failure,"bearings, tools",Tech_01,20
+2020-03-31 07:00:00,Machine_17026,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,17
+2020-04-03 02:00:00,Machine_L49413,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-04-03 13:00:00,Machine_17104,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-04-05 20:00:00,Machine_L49479,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-04-07 04:00:00,Machine_L49511,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2020-04-07 05:00:00,Machine_L49512,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-04-11 03:00:00,Machine_17286,corrective,Failure: Power Failure,"bearings, tools",Tech_01,13
+2020-04-11 21:00:00,Machine_L49624,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2020-04-13 23:00:00,Machine_L49674,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,5
+2020-04-14 07:00:00,Machine_L49682,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,16
+2020-04-17 14:00:00,Machine_L49761,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,6
+2020-04-18 07:00:00,Machine_L49778,corrective,Failure: Power Failure,"bearings, tools",Tech_01,15
+2020-04-21 08:00:00,Machine_17531,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,10
+2020-04-24 14:00:00,Machine_17609,corrective,Failure: No Failure,"bearings, tools",Tech_01,20
+2020-04-25 02:00:00,Machine_L49941,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-04-29 03:00:00,Machine_L50038,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,9
+2020-04-29 09:00:00,Machine_H32278,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,12
+2020-04-30 00:00:00,Machine_17739,corrective,Failure: Power Failure,"bearings, tools",Tech_01,7
+2020-05-02 14:00:00,Machine_17801,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-05-05 01:00:00,Machine_H32414,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-05-05 20:00:00,Machine_L50199,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,13
+2020-05-10 21:00:00,Machine_H32554,corrective,Failure: Power Failure,"bearings, tools",Tech_01,21
+2020-05-14 21:00:00,Machine_18096,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-05-16 03:00:00,Machine_L50446,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2020-05-19 15:00:00,Machine_L50530,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,20
+2020-05-19 21:00:00,Machine_L50536,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2020-05-20 10:00:00,Machine_L50549,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-05-24 02:00:00,Machine_18317,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-05-27 01:00:00,Machine_L50708,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-05-27 02:00:00,Machine_L50709,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-05-29 04:00:00,Machine_L50759,corrective,Failure: Power Failure,"bearings, tools",Tech_01,18
+2020-05-30 12:00:00,Machine_L50791,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-06-02 13:00:00,Machine_L50864,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-06-03 00:00:00,Machine_L50875,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,23
+2020-06-05 17:00:00,Machine_L50940,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-06 20:00:00,Machine_L50967,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,11
+2020-06-07 02:00:00,Machine_L50973,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,4
+2020-06-07 15:00:00,Machine_18666,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-06-07 23:00:00,Machine_18674,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,15
+2020-06-08 14:00:00,Machine_H33243,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-06-09 15:00:00,Machine_L51034,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-06-10 02:00:00,Machine_H33279,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,5
+2020-06-10 04:00:00,Machine_18727,corrective,Failure: Power Failure,"bearings, tools",Tech_01,8
+2020-06-12 17:00:00,Machine_L51108,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-06-13 00:00:00,Machine_18795,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,15
+2020-06-13 08:00:00,Machine_L51123,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-06-15 19:00:00,Machine_L51182,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-06-16 17:00:00,Machine_18884,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,14
+2020-06-17 01:00:00,Machine_L51212,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2020-06-17 03:00:00,Machine_L51214,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-06-17 13:00:00,Machine_18904,corrective,Failure: No Failure,"bearings, tools",Tech_01,20
+2020-06-17 17:00:00,Machine_L51228,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-06-18 16:00:00,Machine_L51251,corrective,Failure: Power Failure,"bearings, tools",Tech_01,11
+2020-06-18 23:00:00,Machine_H33492,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-06-19 01:00:00,Machine_L51260,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-06-19 02:00:00,Machine_L51261,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-06-19 08:00:00,Machine_L51267,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-06-19 17:00:00,Machine_L51276,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-06-20 14:00:00,Machine_L51297,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,16
+2020-06-20 16:00:00,Machine_L51299,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-06-20 17:00:00,Machine_18980,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-06-20 18:00:00,Machine_18981,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-06-21 03:00:00,Machine_L51310,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-06-21 11:00:00,Machine_L51318,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,13
+2020-06-21 13:00:00,Machine_L51320,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,6
+2020-06-22 00:00:00,Machine_19011,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-06-22 02:00:00,Machine_19013,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-06-22 04:00:00,Machine_L51335,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,13
+2020-06-22 06:00:00,Machine_L51337,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-22 13:00:00,Machine_L51344,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-06-22 19:00:00,Machine_19030,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-06-22 22:00:00,Machine_19033,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-06-23 04:00:00,Machine_L51359,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-23 07:00:00,Machine_L51362,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-23 09:00:00,Machine_L51364,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-06-23 10:00:00,Machine_L51365,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-06-24 08:00:00,Machine_19067,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,5
+2020-06-24 12:00:00,Machine_L51391,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-06-25 02:00:00,Machine_L51405,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,23
+2020-06-26 00:00:00,Machine_L51427,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-06-26 02:00:00,Machine_L51429,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-06-26 04:00:00,Machine_H33665,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,15
+2020-06-26 06:00:00,Machine_19113,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-06-26 07:00:00,Machine_L51434,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,7
+2020-06-26 11:00:00,Machine_19118,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-26 23:00:00,Machine_L51450,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-06-27 08:00:00,Machine_L51459,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-06-27 11:00:00,Machine_L51462,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,10
+2020-06-27 12:00:00,Machine_19143,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-06-27 14:00:00,Machine_L51465,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-06-27 21:00:00,Machine_19152,corrective,Failure: Power Failure,"bearings, tools",Tech_01,13
+2020-06-28 01:00:00,Machine_L51476,corrective,Failure: Power Failure,"bearings, tools",Tech_01,21
+2020-06-28 12:00:00,Machine_L51487,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-06-29 04:00:00,Machine_L51503,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-06-29 07:00:00,Machine_L51506,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-06-29 09:00:00,Machine_L51508,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,23
+2020-06-29 23:00:00,Machine_19202,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-06-30 10:00:00,Machine_19213,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-06-30 12:00:00,Machine_H33769,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,7
+2020-06-30 18:00:00,Machine_19221,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-07-01 03:00:00,Machine_L51550,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,15
+2020-07-01 16:00:00,Machine_L51563,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-07-01 18:00:00,Machine_L51565,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,9
+2020-07-01 22:00:00,Machine_19249,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-07-02 00:00:00,Machine_19251,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-07-02 09:00:00,Machine_L51580,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-07-02 14:00:00,Machine_L51585,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-02 15:00:00,Machine_L51586,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-02 18:00:00,Machine_19269,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,15
+2020-07-03 02:00:00,Machine_L51597,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,11
+2020-07-03 04:00:00,Machine_19279,corrective,Failure: Power Failure,"bearings, tools",Tech_01,5
+2020-07-03 06:00:00,Machine_L51601,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-03 12:00:00,Machine_19287,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,4
+2020-07-03 20:00:00,Machine_L51615,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-07-04 02:00:00,Machine_L51621,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-07-04 09:00:00,Machine_L51628,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-07-04 10:00:00,Machine_19309,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-07-04 23:00:00,Machine_L51642,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-05 06:00:00,Machine_L51649,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,20
+2020-07-05 12:00:00,Machine_L51655,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-07-05 17:00:00,Machine_H33894,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-07-06 08:00:00,Machine_L51675,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-07-06 14:00:00,Machine_L51681,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-07-06 23:00:00,Machine_L51690,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-07-07 16:00:00,Machine_19387,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-07 22:00:00,Machine_19393,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,4
+2020-07-08 01:00:00,Machine_L51716,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-07-08 09:00:00,Machine_L51724,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,11
+2020-07-08 21:00:00,Machine_19416,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-07-08 23:00:00,Machine_L51738,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-07-09 06:00:00,Machine_H33979,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,9
+2020-07-09 11:00:00,Machine_L51750,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-09 20:00:00,Machine_L51759,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,11
+2020-07-10 13:00:00,Machine_L51776,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,11
+2020-07-10 17:00:00,Machine_L51780,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-07-10 18:00:00,Machine_19461,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-11 04:00:00,Machine_L51791,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,12
+2020-07-11 11:00:00,Machine_19478,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,10
+2020-07-11 13:00:00,Machine_L51800,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,4
+2020-07-11 14:00:00,Machine_L51801,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-07-12 01:00:00,Machine_19492,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-12 11:00:00,Machine_L51822,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-07-12 12:00:00,Machine_L51823,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-07-12 15:00:00,Machine_L51826,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,11
+2020-07-12 20:00:00,Machine_L51831,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,5
+2020-07-13 06:00:00,Machine_L51841,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,22
+2020-07-13 10:00:00,Machine_19525,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,20
+2020-07-13 14:00:00,Machine_19529,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-14 05:00:00,Machine_19544,corrective,Failure: No Failure,"bearings, tools",Tech_01,19
+2020-07-14 23:00:00,Machine_L51882,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,6
+2020-07-15 15:00:00,Machine_L51898,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,21
+2020-07-15 17:00:00,Machine_19580,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-15 20:00:00,Machine_L51903,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,13
+2020-07-16 00:00:00,Machine_19587,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-07-16 02:00:00,Machine_L51909,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-16 04:00:00,Machine_L51911,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-07-16 10:00:00,Machine_19597,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,12
+2020-07-16 12:00:00,Machine_L51919,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,14
+2020-07-16 21:00:00,Machine_L51928,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,8
+2020-07-17 04:00:00,Machine_L51935,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-07-17 08:00:00,Machine_L51939,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-07-17 10:00:00,Machine_H34175,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,13
+2020-07-17 11:00:00,Machine_19622,corrective,Failure: Power Failure,"bearings, tools",Tech_01,7
+2020-07-17 17:00:00,Machine_L51948,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-07-17 19:00:00,Machine_L51950,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,7
+2020-07-18 03:00:00,Machine_H34192,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,16
+2020-07-19 15:00:00,Machine_L51994,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,8
+2020-07-19 17:00:00,Machine_L51996,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-07-20 08:00:00,Machine_L52011,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,19
+2020-07-20 10:00:00,Machine_L52013,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,6
+2020-07-20 13:00:00,Machine_L52016,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,18
+2020-07-20 17:00:00,Machine_L52020,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,17
+2020-07-20 21:00:00,Machine_19704,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,6
+2020-07-21 04:00:00,Machine_L52031,corrective,Failure: Heat Dissipation Failure,"bearings, tools",Tech_01,23
+2020-07-24 01:00:00,Machine_L52100,corrective,Failure: Power Failure,"bearings, tools",Tech_01,20
+2020-07-24 17:00:00,Machine_L52116,corrective,Failure: Power Failure,"bearings, tools",Tech_01,6
+2020-07-26 09:00:00,Machine_L52156,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-07-26 17:00:00,Machine_L52164,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,12
+2020-07-26 21:00:00,Machine_L52168,corrective,Failure: Power Failure,"bearings, tools",Tech_01,18
+2020-07-27 06:00:00,Machine_19857,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2020-07-29 09:00:00,Machine_H34462,corrective,Failure: Power Failure,"bearings, tools",Tech_01,22
+2020-07-29 22:00:00,Machine_L52241,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2020-08-02 06:00:00,Machine_L52321,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,13
+2020-08-05 12:00:00,Machine_L52399,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,14
+2020-08-09 06:00:00,Machine_20169,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,12
+2020-08-10 07:00:00,Machine_20194,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-08-12 19:00:00,Machine_20254,corrective,Failure: Power Failure,"bearings, tools",Tech_01,15
+2020-08-13 00:00:00,Machine_H34813,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,10
+2020-08-13 01:00:00,Machine_L52580,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-08-13 02:00:00,Machine_20261,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-08-16 17:00:00,Machine_L52668,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,10
+2020-08-16 19:00:00,Machine_L52670,corrective,Failure: Power Failure,"bearings, tools",Tech_01,6
+2020-08-18 17:00:00,Machine_20396,corrective,Failure: No Failure,"bearings, tools",Tech_01,16
+2020-08-22 00:00:00,Machine_20475,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-08-22 02:00:00,Machine_L52797,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23
+2020-08-25 19:00:00,Machine_L52886,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-08-26 23:00:00,Machine_L52914,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,10
+2020-09-03 06:00:00,Machine_H35323,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,10
+2020-09-04 14:00:00,Machine_L53121,corrective,Failure: No Failure,"bearings, tools",Tech_01,22
+2020-09-07 00:00:00,Machine_20859,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-09-08 01:00:00,Machine_L53204,corrective,Failure: Power Failure,"bearings, tools",Tech_01,9
+2020-09-10 07:00:00,Machine_L53258,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-09-13 10:00:00,Machine_L53333,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2020-09-13 16:00:00,Machine_L53339,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,13
+2020-09-14 05:00:00,Machine_L53352,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,17
+2020-09-14 11:00:00,Machine_L53358,corrective,Failure: Power Failure,"bearings, tools",Tech_01,13
+2020-09-17 09:00:00,Machine_L53428,corrective,Failure: Power Failure,"bearings, tools",Tech_01,10
+2020-09-17 16:00:00,Machine_L53435,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,7
+2020-09-17 17:00:00,Machine_L53436,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,18
+2020-09-21 05:00:00,Machine_H35754,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-09-24 12:00:00,Machine_H35833,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,16
+2020-09-26 23:00:00,Machine_L53658,corrective,Failure: No Failure,"bearings, tools",Tech_01,4
+2020-09-27 18:00:00,Machine_L53677,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-09-28 22:00:00,Machine_L53705,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-09-29 13:00:00,Machine_21400,corrective,Failure: Power Failure,"bearings, tools",Tech_01,22
+2020-10-02 19:00:00,Machine_21478,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-10-05 02:00:00,Machine_L53853,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-10-05 07:00:00,Machine_21538,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2020-10-08 16:00:00,Machine_L53939,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-10-10 08:00:00,Machine_21659,corrective,Failure: Power Failure,"bearings, tools",Tech_01,6
+2020-10-15 13:00:00,Machine_L54104,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-10-15 21:00:00,Machine_L54112,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-10-18 07:00:00,Machine_L54170,corrective,Failure: Power Failure,"bearings, tools",Tech_01,5
+2020-10-19 04:00:00,Machine_L54191,corrective,Failure: Power Failure,"bearings, tools",Tech_01,13
+2020-10-22 04:00:00,Machine_L54263,corrective,Failure: Power Failure,"bearings, tools",Tech_01,15
+2020-10-22 08:00:00,Machine_L54267,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,14
+2020-10-25 16:00:00,Machine_L54347,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,5
+2020-10-30 09:00:00,Machine_L54460,corrective,Failure: Power Failure,"bearings, tools",Tech_01,10
+2020-11-05 11:00:00,Machine_22286,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,9
+2020-11-08 22:00:00,Machine_L54689,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2020-11-08 23:00:00,Machine_L54690,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,13
+2020-11-10 01:00:00,Machine_L54716,corrective,Failure: Power Failure,"bearings, tools",Tech_01,4
+2020-11-11 05:00:00,Machine_22424,corrective,Failure: Power Failure,"bearings, tools",Tech_01,5
+2020-11-11 10:00:00,Machine_L54749,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-11-12 08:00:00,Machine_22451,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-11-12 10:00:00,Machine_L54773,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-11-15 14:00:00,Machine_L54849,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,9
+2020-11-16 08:00:00,Machine_22547,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,19
+2020-11-19 05:00:00,Machine_L54936,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,20
+2020-11-19 08:00:00,Machine_L54939,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,7
+2020-11-19 12:00:00,Machine_L54943,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-11-23 02:00:00,Machine_22709,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,20
+2020-11-24 13:00:00,Machine_L55064,corrective,Failure: Power Failure,"bearings, tools",Tech_01,14
+2020-11-26 07:00:00,Machine_L55106,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,13
+2020-11-29 06:00:00,Machine_22857,corrective,Failure: Power Failure,"bearings, tools",Tech_01,12
+2020-11-30 11:00:00,Machine_L55206,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-12-04 00:00:00,Machine_22971,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,16
+2020-12-07 09:00:00,Machine_L55372,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,21
+2020-12-07 12:00:00,Machine_L55375,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2020-12-07 16:00:00,Machine_L55379,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,18
+2020-12-09 14:00:00,Machine_23105,corrective,Failure: Power Failure,"bearings, tools",Tech_01,21
+2020-12-12 04:00:00,Machine_23167,corrective,Failure: Power Failure,"bearings, tools",Tech_01,7
+2020-12-14 06:00:00,Machine_L55537,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,22
+2020-12-15 23:00:00,Machine_L55578,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-12-17 14:00:00,Machine_L55617,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,20
+2020-12-20 11:00:00,Machine_L55686,corrective,Failure: No Failure,"bearings, tools",Tech_01,22
+2020-12-23 15:00:00,Machine_23442,corrective,Failure: Power Failure,"bearings, tools",Tech_01,19
+2020-12-24 17:00:00,Machine_L55788,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,17
+2020-12-24 18:00:00,Machine_L55789,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,8
+2020-12-28 03:00:00,Machine_L55870,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,10
+2021-01-03 15:00:00,Machine_23706,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,8
+2021-01-06 23:00:00,Machine_23786,corrective,Failure: Power Failure,"bearings, tools",Tech_01,18
+2021-01-10 15:00:00,Machine_23874,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,17
+2021-01-10 16:00:00,Machine_L56195,corrective,Failure: No Failure,"bearings, tools",Tech_01,22
+2021-01-10 17:00:00,Machine_L56196,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,18
+2021-01-10 19:00:00,Machine_L56198,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,23
+2021-01-13 13:00:00,Machine_L56264,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2021-01-17 07:00:00,Machine_L56354,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,18
+2021-01-17 08:00:00,Machine_L56355,corrective,Failure: Power Failure,"bearings, tools",Tech_01,17
+2021-01-27 07:00:00,Machine_L56594,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2021-01-30 14:00:00,Machine_L56673,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,13
+2021-02-03 01:00:00,Machine_L56756,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,9
+2021-02-04 14:00:00,Machine_L56793,corrective,Failure: Power Failure,"bearings, tools",Tech_01,10
+2021-02-06 06:00:00,Machine_L56833,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,11
+2021-02-06 07:00:00,Machine_L56834,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,19
+2021-02-06 12:00:00,Machine_L56839,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,4
+2021-02-06 16:00:00,Machine_L56843,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2021-02-06 17:00:00,Machine_L56844,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,23
+2021-02-06 20:00:00,Machine_L56847,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,6
+2021-02-10 15:00:00,Machine_L56938,corrective,Failure: Tool Wear Failure,"bearings, tools",Tech_01,13
+2021-02-10 21:00:00,Machine_L56944,corrective,Failure: Power Failure,"bearings, tools",Tech_01,22
+2021-02-13 07:00:00,Machine_L57002,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,9
+2021-02-13 15:00:00,Machine_L57010,corrective,Failure: Overstrain Failure,"bearings, tools",Tech_01,10
+2021-02-19 15:00:00,Machine_L57154,corrective,Failure: Power Failure,"bearings, tools",Tech_01,23

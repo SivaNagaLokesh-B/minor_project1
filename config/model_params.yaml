@@ -1,0 +1,22 @@
+feature_engineering:
+  rolling_windows: ['1h', '8h', '24h', '168h']
+  spectral_features: true
+  cross_sensor_correlations: true
+  physics_informed: true
+
+model_architecture:
+  tcn_layers: [64, 128, 256, 128]
+  lstm_units: [128, 64]
+  dropout_rate: 0.2
+  attention_heads: 4
+
+training:
+  batch_size: 32
+  epochs: 100
+  learning_rate: 0.001
+  early_stopping_patience: 15
+  validation_split: 0.2
+
+ensemble:
+  models: ['tcn_physics', 'lstm_attention', 'gradient_boosting', 'survival_analysis']
+  weights: [0.35, 0.3, 0.25, 0.1]
